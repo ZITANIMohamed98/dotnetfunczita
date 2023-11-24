@@ -1,9 +1,0 @@
-{
-  "profiles": {
-    "dotnetfunczita": {
-      "commandName": "Project",
-      "commandLineArgs": "--port 7215",
-      "launchBrowser": false
-    }
-  }
-}
